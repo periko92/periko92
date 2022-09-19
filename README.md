@@ -1,3 +1,3 @@
 - 👋 Hi, I’m ✨✨✨@periko92✨✨✨
 - 👀 I’m interested in game server files.
-- 🌱 I’m currently learning myself C#
+- 🌱 I’m currently learning myself C#, CSS, React
